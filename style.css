@@ -1,0 +1,23 @@
+.container-header{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+#nome{
+    font-size: 8.5vw;
+}
+body{
+    font-size: 4vw;
+}
+#endereco{
+    font-size: 4.5;
+}
+.container-link{
+    align-items: center;
+    justify-content: flex-start;
+    }
+    .container-link img{
+    height: 2.8vw;
+    margin: 1vw;
+    }
+
